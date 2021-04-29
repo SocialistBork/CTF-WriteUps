@@ -66,7 +66,7 @@ r.recvline()
 r.recvline()
 
 # start by setting prefix to  'picoCTF{', let it run, then replace with the last found string prefix here
-prefix = 'picoCTF{bad_1d3a5_0501970'
+prefix = 'picoCTF{'
 
 
 enc = {(0,'p'): get_encrypt(r,'p')}
