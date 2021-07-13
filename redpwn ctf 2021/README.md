@@ -4,10 +4,12 @@ Ctf At: https://ctf.redpwn.net/
 ## wstrings
 ### Challenge Description
 Category: Reverse Engineering
+
 Description: Some strings are wider than normal...
 
 ### Solution
-A simple hexdump will reveal that the flag is inbedded in the file's code. You can use the hexedit command on Linux. Alternatively, you can use "Open with Notepad" on Windows.
+A simple hexdump will reveal that the flag is inbedded in the file's code. You can use the hexedit command on Linux. 
+Alternatively, you can use "Open with Notepad" on Windows.
 
 ```
 00000930  01 00 02 00 00 00 00 00 66 00 00 00 6c 00 00 00  |........f...l...|
