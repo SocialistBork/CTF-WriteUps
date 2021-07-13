@@ -80,7 +80,7 @@ print ("d=",d)
 print ("n=",n)
 print ("Decrypt: %s" % ((long_to_bytes(res))))
 ```
-Altenatively, you can use https://www.dcode.fr/rsa-cipher to decode the cipher text. Both results will give you the flag.
+Altenatively, you can use https://www.dcode.fr/rsa-cipher to decode the cipher text. Both methods will give you the flag.
 
 ```
 flag{68ab82df34}
