@@ -44,7 +44,7 @@ If it isn't apparent already, this problems is about RSA. If you do not know wha
 First, factor out N, which is the product of the primes p and q. You can use http://factordb.com/ to find them.
 
 You can use a script to solve this problem.
-```
+```python
 from Crypto.Util.number import long_to_bytes
 import libnum
 import sys
