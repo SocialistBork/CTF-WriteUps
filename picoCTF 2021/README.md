@@ -2,8 +2,9 @@
 Ctf At: https://play.picoctf.org/
 
 ## Scrambled:RSA
-### Challenge Descirption
-Hmmm I wonder if you have learned your lesson... Let's see if you understand RSA and how the encryption works. Connect with nc mercury.picoctf.net 4572.
+### Challenge Description
+Category: Crypto
+Description: Hmmm I wonder if you have learned your lesson... Let's see if you understand RSA and how the encryption works. Connect with nc mercury.picoctf.net 4572.
 
 Initial Output:
 ```
