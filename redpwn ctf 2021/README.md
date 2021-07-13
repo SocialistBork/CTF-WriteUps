@@ -1,4 +1,4 @@
-# PicoCTF 2021
+# redpwnCTF 2021
 Ctf At: https://ctf.redpwn.net/
 
 ## wstrings
